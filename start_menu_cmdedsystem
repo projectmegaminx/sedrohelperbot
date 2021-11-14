@@ -1,0 +1,19 @@
+from main_menu
+[
+  menu-cmd : "/start_menu";
+  
+{
+connect_cmd\;
+  ps : 0.1
+  
+connect_cmd\;
+  ps : 0.2
+
+connect_cmd\;
+  ps : 2.0
+  
+connect_cmd\;
+  ps : 3.0
+  
+}
+]
