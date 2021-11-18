@@ -1,18 +1,18 @@
 from main_menu
 [
-  menu-cmd : "/start_menu";
+  menu_cmd : "/start_menu";
   
 {
-connect_cmd\;
+connect_cmd:\_"/about_bot";
   ps : 0.1
   
-connect_cmd\;
+connect_cmd:\_"/contact";
   ps : 0.2
 
-connect_cmd\;
+connect_cmd:\_"/check_for_updates";
   ps : 2.0
   
-connect_cmd\;
+connect_cmd:\_"/power";
   ps : 3.0
   
 }
